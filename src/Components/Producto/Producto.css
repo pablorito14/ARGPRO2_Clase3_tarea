@@ -1,0 +1,13 @@
+
+.img-fluid{
+  width: 100%;
+  max-width: 450px;
+}
+
+
+@media screen and (max-width:768px) {
+  .img-fluid{
+    max-width: 350px;
+  }
+  
+}

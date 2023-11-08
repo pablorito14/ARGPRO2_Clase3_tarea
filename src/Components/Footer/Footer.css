@@ -1,0 +1,18 @@
+footer{
+  position:relative;
+	bottom:0px;
+	left:0px;
+	width:100%;
+}
+
+.fa-twitter{
+  color: #55acee;
+}
+
+.fa-whatsapp{
+  color: #4dc247;
+}
+
+.fa-linkedin{
+  color: #007bb5;
+}

@@ -1,0 +1,12 @@
+
+.main{
+  background-image: linear-gradient(rgb(33,37,41),#0000001c,rgb(33,37,41)) ,url('../../../public/background.jpg');
+  
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: calc(100vh - 56px - 24px); 
+  /* min-height: 100vh - alto de header - alto de footer */
+
+}
+
