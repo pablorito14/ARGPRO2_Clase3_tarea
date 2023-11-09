@@ -1,6 +1,6 @@
 
 .main{
-  background-image: linear-gradient(rgb(33,37,41),#0000001c,rgb(33,37,41)) ,url('../../../public/background.jpg');
+  background-image: linear-gradient(rgb(33,37,41),#0000001c,rgb(33,37,41)) ,url('../../../public/background.webp');
   
   background-position: 50% 50%;
   background-repeat: no-repeat;
