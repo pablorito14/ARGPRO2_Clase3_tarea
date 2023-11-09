@@ -37,7 +37,7 @@ const PrecioBoton = ({stock,precio}) => {
   return (
     <>
       <h3 className="fw-bold card-text">Precio: $ {precio}</h3>
-      <button className='btn py-3 py-md-2 px-5'>Agregar al carrito</button>
+      <button className='btn py-3 py-md-2 px-5 font-russo-one'>Agregar al carrito</button>
     </>
   )
 }
@@ -57,7 +57,7 @@ const Producto = ({producto}) => {
         <div className="col-lg-8">
           <div className="card-body pb-0 d-flex align-items-start flex-column h-100">
             <div className='mb-auto'>
-              <h2 className="card-title">{nombre}</h2>
+              <h2 className="card-title fw-bold">{nombre}</h2>
               <p className="card-text mb-2">{descripcion}</p>
               <p className="w-100 mb-0">
                 <small className='text-body-secondary'>SKU: {sku}</small>
