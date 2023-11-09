@@ -1,11 +1,12 @@
 
 .img-fluid{
   width: 100%;
-  max-width: 450px;
+  max-width: 250px;
 }
 .btn{
   background-color: #5b788b;
   color: whitesmoke;
+  text-transform: uppercase;
 }
 
 .btn:hover{
@@ -43,5 +44,5 @@
   .img-fluid{
     max-width: 350px;
   }
-  
+
 }
