@@ -3,6 +3,40 @@
   width: 100%;
   max-width: 450px;
 }
+.btn{
+  background-color: #5b788b;
+  color: whitesmoke;
+}
+
+.btn:hover{
+  background-color: #212529;
+  color: whitesmoke;
+}
+
+.ultimas-unidades{
+  animation-name: parpadeo;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+@keyframes parpadeo {
+  from { color: transparent; }
+  to { color:#dc3545 }
+}
+
+.card{
+  animation-name: mostrar;
+  animation-duration: 1s;
+  animation-iteration-count: initial;
+  animation-direction: normal;
+}
+
+@keyframes mostrar {
+  from { transform: scale(.5,.5); }
+  to { transform: scale(1,1); }
+}
+
 
 
 @media screen and (max-width:768px) {
