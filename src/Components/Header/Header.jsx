@@ -6,7 +6,7 @@ const Header = () => {
    <header>
     <nav className="navbar navbar-expand-lg bg-dark sticky-top" data-bs-theme="dark">
       <div className="container">
-        <a className="navbar-brand font-russo-one" href="/">RitoStore</a>
+        <a className="fs-2 navbar-brand font-russo-one" href="/">RitoStore</a>
         <div className='d-flex gap-4 align-items-center order-0 order-md-1'>
           <div className='d-flex ms-2 order-0-'>
             <a href="/" className='shop-cart position-relative'><i className="fa-solid fa-cart-shopping fa-lg"></i></a>

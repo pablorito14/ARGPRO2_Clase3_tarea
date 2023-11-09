@@ -5,8 +5,14 @@
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: calc(100vh - 56px - 40px); 
+  min-height: calc(100vh - 63px - 40px); 
   /* min-height: 100vh - alto de header - alto de footer */
 
+}
+
+@media screen and (min-width: 1200px){
+  .main{
+    min-height: calc(100vh - 74px - 40px);
+  }
 }
 
