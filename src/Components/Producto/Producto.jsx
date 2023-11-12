@@ -42,16 +42,16 @@ const PrecioBoton = ({stock,precio}) => {
   )
 }
 
-const Producto = ({producto}) => {
+const Producto = ({ nombre,descripcion,precio,sku,stock,img }) => {
 
-  const { nombre,descripcion,precio,sku,stock,img } = producto;
+  
 
   return(
     <div className="card shadow">
       <div className="row g-0">
         <div className="col-lg-4 ">
           <div className="w-100 h-100 d-flex align-items-center justify-content-center">
-            <img src={`./static/media/productos/${img}`} className="img-fluid rounded" alt={nombre} />
+            <img src={img} className="img-fluid rounded" alt={nombre} />
           </div>
         </div>
         <div className="col-lg-8">

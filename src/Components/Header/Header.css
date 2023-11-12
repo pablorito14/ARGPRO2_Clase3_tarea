@@ -1,22 +1,10 @@
-.shop-cart{
-  color: rgba(255, 255, 255, 0.55);
+header a{
+  color: #ffffff !important;
+  
 }
 
-.shop-cart:hover{
-  color: rgba(255, 255, 255, .95);
-  animation-name:hover-animation;
-  animation-duration: .5s;
-  animation-iteration-count: infinite;
-  animation-direction: alternate;
-
-}
-@keyframes hover-animation {
-  0%{
-    transform: scale(1,1);
-  }
-
-  100%{
-    transform: scale(1.125,1.125);
-  }
+header a:hover{
+  color: #ffffff8c !important;
+  
 }
 
