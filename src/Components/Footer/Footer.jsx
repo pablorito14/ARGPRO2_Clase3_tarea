@@ -10,7 +10,6 @@ const Footer = () => {
       <div>
         <a href="/"><i className="fa-brands fa-twitter fa-xl ms-2"></i></a>
         <a href="/"><i className="fa-brands fa-whatsapp fa-xl ms-2"></i></a>
-        <a href="/"><i className="fa-brands fa-linkedin fa-xl ms-2"></i></a>
       </div>
     </div>
    </footer>
