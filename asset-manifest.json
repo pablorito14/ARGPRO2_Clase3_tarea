@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ARGPRO2_Clase3_tarea/static/css/main.496d785f.css",
-    "main.js": "/ARGPRO2_Clase3_tarea/static/js/main.2ce7d131.js",
+    "main.css": "/ARGPRO2_Clase3_tarea/static/css/main.f91d6b0e.css",
+    "main.js": "/ARGPRO2_Clase3_tarea/static/js/main.e8623c11.js",
     "static/js/787.99442270.chunk.js": "/ARGPRO2_Clase3_tarea/static/js/787.99442270.chunk.js",
     "static/media/background.webp": "/ARGPRO2_Clase3_tarea/static/media/background.53379eb4085a8b930744.webp",
     "index.html": "/ARGPRO2_Clase3_tarea/index.html",
-    "main.496d785f.css.map": "/ARGPRO2_Clase3_tarea/static/css/main.496d785f.css.map",
-    "main.2ce7d131.js.map": "/ARGPRO2_Clase3_tarea/static/js/main.2ce7d131.js.map",
+    "main.f91d6b0e.css.map": "/ARGPRO2_Clase3_tarea/static/css/main.f91d6b0e.css.map",
+    "main.e8623c11.js.map": "/ARGPRO2_Clase3_tarea/static/js/main.e8623c11.js.map",
     "787.99442270.chunk.js.map": "/ARGPRO2_Clase3_tarea/static/js/787.99442270.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.496d785f.css",
-    "static/js/main.2ce7d131.js"
+    "static/css/main.f91d6b0e.css",
+    "static/js/main.e8623c11.js"
   ]
 }
