@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ARGPRO2_Clase3_tarea/static/css/main.f91d6b0e.css",
-    "main.js": "/ARGPRO2_Clase3_tarea/static/js/main.e8623c11.js",
+    "main.js": "/ARGPRO2_Clase3_tarea/static/js/main.2e5ded1f.js",
     "static/js/787.99442270.chunk.js": "/ARGPRO2_Clase3_tarea/static/js/787.99442270.chunk.js",
     "static/media/background.webp": "/ARGPRO2_Clase3_tarea/static/media/background.53379eb4085a8b930744.webp",
     "index.html": "/ARGPRO2_Clase3_tarea/index.html",
     "main.f91d6b0e.css.map": "/ARGPRO2_Clase3_tarea/static/css/main.f91d6b0e.css.map",
-    "main.e8623c11.js.map": "/ARGPRO2_Clase3_tarea/static/js/main.e8623c11.js.map",
+    "main.2e5ded1f.js.map": "/ARGPRO2_Clase3_tarea/static/js/main.2e5ded1f.js.map",
     "787.99442270.chunk.js.map": "/ARGPRO2_Clase3_tarea/static/js/787.99442270.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f91d6b0e.css",
-    "static/js/main.e8623c11.js"
+    "static/js/main.2e5ded1f.js"
   ]
 }
